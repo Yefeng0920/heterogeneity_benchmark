@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a repository containing the data and code for reproducing results from Computationally reproducing results from 
+This is a repository containing the data and code for reproducing results from computationally reproducing results from 
 
 > Anonymized. A pluralistic framework for measuring, interpreting and stratifying heterogeneity in meta-analysis. 2023.
 
