@@ -4,7 +4,7 @@
 
 This is a repository containing the data and code for reproducing results from Computationally reproducing results from 
 
-> Yefeng Yang, Daniel W. A. Noble, Rebecca Spake, Alistair M. Senior, Malgorzata Lagisz, Shinichi Nakagawa. A pluralistic framework for measuring, interpreting and stratifying heterogeneity in meta-analysis. 2023.
+> Anonymized. A pluralistic framework for measuring, interpreting and stratifying heterogeneity in meta-analysis. 2023.
 
 ## Structure
 
@@ -33,13 +33,3 @@ The `script` folder includes `pluralisticH_V6.Rmd` which contains the R scripts 
 ## Licence
 
 The files in this dataset are licensed under the Creative Commons Attribution 4.0 International License (to view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/).
-
-## Contact
-
-- Dr. Yefeng Yang
-
-Evolution & Ecology Research Centre, EERC
-School of Biological, Earth and Environmental Sciences, BEES
-The University of New South Wales, Sydney, Australia
-
-Email: yefeng.yang1@unsw.edu.au
