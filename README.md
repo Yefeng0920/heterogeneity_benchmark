@@ -16,7 +16,7 @@ The repository contains the following folders:
 
 - figure
   
-- pluralisticH_V6
+- script
 
 ### `data` folder
 
@@ -26,9 +26,9 @@ The `data` folder includes the raw data files (i.e., `Costello_Fox_2022.Rds` and
 
 The `Function` folder includes the custom R function.
 
-### `pluralisticH_V6`
+### `script`
 
-The `pluralisticH_V6.Rmd` includes the R scripts used to reproduce all analyses and figures shown in the main text.
+The `script` folder includes `pluralisticH_V6.Rmd` which contains the R scripts used to reproduce all analyses and figures shown in the main text.
 
 ## Licence
 
